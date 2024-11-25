@@ -1,11 +1,3 @@
-Sure, let me examine the file and draft a README for it.
-
-The Jupyter Notebook appears to analyze IMDB movie reviews using Natural Language Processing (NLP). It includes sections for data preprocessing, feature extraction, and model evaluation using libraries such as `pandas`, `sklearn`, and `nltk`. 
-
-Here’s a README tailored to your project:  
-
----
-
 # NLP Analysis for IMDB Movie Reviews  
 
 This project demonstrates the use of Natural Language Processing (NLP) to analyze movie reviews from the IMDB dataset. It focuses on preprocessing text data, extracting meaningful features, and building classification models to predict sentiment (positive or negative).  
